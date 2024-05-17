@@ -1,2 +1,0 @@
-# roadmap-assignment-one
-assignment
